@@ -2,8 +2,8 @@
 title: Research Pitches 
 ---
 
-Tue Oct 1
+February 5
 : Project Pitches 
 
-Thurs Oct 3
+February 10
 : Project Pitches

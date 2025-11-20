@@ -1,5 +1,5 @@
 ---
-title: Foundations - Sociolinguistics
+title: Think Big - text can be anything you want it to be
 ---
 
 Thur Aug 29
