@@ -17,7 +17,7 @@ title: CSE 498 H
 tagline: CSE 498 H
 description: Course on recent advances for human-centered language technologies.
 author: Tal August
-baseurl: '/CS498LSpring2025' # the subpath of your site, e.g. /blog
+baseurl: '/CS498HLI-Spr2026' # the subpath of your site, e.g. /blog
 url: 'https://talaugust.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
