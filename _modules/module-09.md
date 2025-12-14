@@ -1,9 +1,9 @@
 ---
-title: AI-Mediated Communication
+title: Build Something (HCI)
 ---
 
-Tues Oct 22
-: Jeffrey T Hancock, Mor Naaman, Karen Levy, [AI-Mediated Communication: Definition, Research Agenda, and Ethical Considerations](https://drive.google.com/file/d/1zKdvsK15TZAcEIWqhBNVD98fAL-9ZirA/view?usp=sharing), Journal of Computer-Mediated Communication. <br> Maurice Jakesch, Advait Bhat, Daniel Buschek, Lior Zalmanson, and Mor Naaman. 2023. [Co-Writing with Opinionated Language Models Affects Users’ Views](https://drive.google.com/file/d/1edxZxpvnR_twgtwHt-t8rGi5sNKFfiCt/view?usp=sharing). In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23).
+Feb 19 
+: Andrew Head, Kyle Lo, Dongyeop Kang, Raymond Fok, Sam Skjonsberg, Daniel S. Weld, and Marti A. Hearst. 2021. [Augmenting Scientific Papers with Just-in-Time, Position-Sensitive Definitions of Terms and Symbols](https://drive.google.com/file/d/1Txi0E6cNbOrRBRoEK0uKiQirLT0EXnrt/view?usp=sharing). In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). <br> Kyle Lo, et al. 2023. [The semantic reader project: Augmenting scholarly documents through ai-powered interactive reading interfaces](https://drive.google.com/file/d/1R-P8MdRxCMsC5uTd9tICUK_R3HmpGwjD/view?usp=sharing). CACM.
 
-Thurs Oct 24
-: Elise Karinshak, Sunny Xun Liu, Joon Sung Park, and Jeffrey T. Hancock. 2023. [Working With AI to Persuade: Examining a Large Language Model's Ability to Generate Pro-Vaccination Messages](https://drive.google.com/file/d/1KDzLoxnKnMTwW2RWmuLHQMx85uPD68q3/view?usp=sharing). Proc. ACM Hum.-Comput. Interact. <br> Jiawei Zhou, Yixuan Zhang, Qianni Luo, Andrea G Parker, and Munmun De Choudhury. 2023. [Synthetic Lies: Understanding AI-Generated Misinformation and Evaluating Algorithmic and Human Solutions](https://drive.google.com/file/d/1PUUbiezfVMnanrSaQ93_Zh16girXe5KP/view?usp=sharing). CHI.
+Feb 24 
+: Katy Ilonka Gero, Vivian Liu, and Lydia Chilton. 2022. [Sparks: Inspiration for Science Writing using Language Models](https://drive.google.com/file/d/1AL71Qt6T35CcmMhfK-JfP3s4R9hXPZ4M/view?usp=sharing). In Proceedings of the 2022 ACM Designing Interactive Systems Conference (DIS '22) <br> Mina Lee, Percy Liang, and Qian Yang. 2022. [CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities](https://drive.google.com/file/d/1Fo7FLoxc6AW4wIuPjzkcoN1N3j8DRbuO/view?usp=sharing). In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). 

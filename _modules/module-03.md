@@ -1,7 +1,8 @@
 ---
-title: But first, unintended consequences (HCI)
+title: Think Big - what even is language?
 ---
 
-Thu Jan 29
-: BLIP: Facilitating the Exploration of Undesirable Consequences of Digital Technologies <br> 
-  ‘Have you thought about…’ talking about ethical implications of research. Communications of the ACM, 63(9), 38-40.
+Jan 27
+: Giles, H., & Ogay, T. (2007). [Communication Accommodation Theory](https://drive.google.com/file/d/1XMkA0HpUF5xgWnknVAljSLTgBkgkuQHa/view?usp=sharing) Bell A. 1984. [Language style as audience design](https://drive.google.com/file/d/1foMgB_LszIMby_3GY9mJQZ_czpNKfln1/view?usp=sharing). Language in Society. Sections 1 and 3.
+
+
