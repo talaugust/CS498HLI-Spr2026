@@ -3,7 +3,7 @@ title: Build Something (HCI)
 ---
 
 Feb 19 
-:Jeffrey Heer, Matt Conlen, Vishal Devireddy, Tu Nguyen, and Josh Horowitz 2021. [Living Papers: A Language Toolkit for Augmented Scholarly Communication
+: Jeffrey Heer, Matt Conlen, Vishal Devireddy, Tu Nguyen, and Josh Horowitz 2021. [Living Papers: A Language Toolkit for Augmented Scholarly Communication
 ](https://drive.google.com/file/d/1zA3-d-6yuw2DnNv-PQLHw_s4ysNidWoC/view?usp=sharing). In Proceedings of the 2023 ACM User Interface Software & Technology conference (UIST' 23). <br> Kyle Lo, et al. 2023. [The semantic reader project: Augmenting scholarly documents through ai-powered interactive reading interfaces](https://drive.google.com/file/d/1R-P8MdRxCMsC5uTd9tICUK_R3HmpGwjD/view?usp=sharing). CACM.
 
 
