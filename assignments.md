@@ -62,15 +62,15 @@ Keep a timer.
 We expect both discussion leads to participate equally in the presentation, activity, and project. To help ensure equal participation. Each discussion lead should include 1-2 sentences documenting their specific contribution to preparing and leading the class discussion. 
 
   
-# Class participation
 
-You are expected to attend and actively participate in every class session. To make the most of this class and not disrupt others, I expect you to be on time and ready to discuss the readings. If you can’t make it because of sickness or a family emergency or similar, please let me know before class. Your participation grade will be 50% class attendance and 50% in class assignments. If you are sick or absent the day of a class assignment, you can complete the assignment up to **two weeks after the class** and send it to the course staff. 
-
-## In class assignments
+## In-class assignments
 
 There will be 2-3 assignments in class meant to actualize the findings or ideas from the readings. Completeing these assignments will be part of your particiption grade. These will predominalty be structured coding assignments where you are provided with some initial code that you will fill in to achieve some result. These assignments will be shared during class. We do not expect you to have any preparation for the assignments, and they will mostly be graded on completeness and effort over correctness. If you would like the assignments in advance please let the instructor know. 
 
 
+# Class participation
+
+You are expected to attend and actively participate in every class session. To make the most of this class and not disrupt others, I expect you to be on time and ready to discuss the readings. If you can’t make it because of sickness or a family emergency or similar, please let me know before class. Your participation grade will be 50% class attendance and 50% in-class assignments. **Class assignments include reading reactions**. If you are sick or absent the day of a class assignment, you can complete the assignment up to **two weeks after the class** and send it to the course staff. 
 # Class Project 
 A major goal of the course is to help students critically reflect and build upon the ideas introduced in class. You will work on a group research project related to language, interfaces and communication throughout the semester. We have various milestones for the project below.  
 
