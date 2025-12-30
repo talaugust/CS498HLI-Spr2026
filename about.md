@@ -34,11 +34,11 @@ Classes will be a mix of lectures and seminars, with many class activities plann
 ## Grading
 There is no exam in this course. 
 
-- Reading Remarks: 15%
 - Leading a class discussion: 15%
-- Class participation: 20%
- - attendance: 10%
-- in class activities: 10%
+- Class participation: 35%
+    - Attendance: 10%
+    - Reading Reactions 15%
+    - In-class activites: 10%
 - Project: 50%
     - Research pitch on 2 possible ideas: 5%
     - Talk on the design of your project (building on your pitch): 5%
