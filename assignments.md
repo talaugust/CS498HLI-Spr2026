@@ -15,46 +15,34 @@ description: >-
 {:toc}
 
 ---
+# In-class reading reactions
+Every class will include assigned readings, usually 2, with the exception of classes where we will be presenting or discussing project updates (marked in the schedule). For each class with reading, I expect you to read at least one of the papers and be ready to discuss it. 
 
-# Reading reflections
-Every class will include assigned readings. For each class, I expect you to write a reading response to the assigned readings, with the exception of classes where we will be presenting or discussing project updates (marked in the schedule). 
+When you arrive in class each day, you will see (on the board or projector) a discussion question based on the readings for that day. You will have the first 10 minutes of class to respond to this question. These are the reading reactions. Reading reactions will also serve as the attendance sheet for the class (see below on attendance policies).
 
-**Reading responses are due by 7 pm the day before each class**. This is to give the discussion leads time to read the responses and prepare discussion questions for class. There are a total of 16 reading responses, to accommodate conflicting deadlines, emergencies, or anything else that might come up during the semester, **you are allowed to skip 3 reading responses, no questions asked**. You also do **not** need to submit a reading response for the papers you are a discussion lead on.
+**Reading reactions are due after the first 10 minutes of class**. After the first ten minutes, you can still submit the reading reaction (such as if you are absent that day), but it will not count toward your attendance. To accommodate conflicting deadlines, emergencies, or anything else that might come up during the semester, **you are allowed to skip three reading reactions, no questions asked**. You also do **not** need to submit a reading reaction for the papers you are a discussion lead on. If you are absent for a particular day, you can submit the reading reaction after class via the google form (I will post this form after class each day). If you are absent you still need to submit a reaction (unless you plan to use one of your three skips). You will submit responses via a google form provided at the start of class. If you are leading a discussion, you do not need to prepare a discussion response. See below for what to prepare if you are leading a discussion. 
 
-Submit responses via [Canvas](https://canvas.illinois.edu/courses/48566) discussion. If you are leading a discussion, you do not need to prepare a discussion response (see below for what to prepare if you are leading a discussion). The Canvas discussion will be closed after 7 pm the day before class. If your reading response is not in by then, it will not be graded. 
+## Reading reactions format
 
-## Reading reflections format
+The reading reaction will be about 1 paragraph (3-5 sentences), focused on responding to the question based on the readings, connections to other readings, and critical/thought-provoking questions you had. Please do NOT provide a summary of the papers. The reaction should include at least one direct reference (e.g., a quote, finding, result, or discussion) from at least one of the papers for that week. 
 
-The reading reflection will be about 2 paragraphs (5-10 sentences), focused on what you learned from the readings, connections to other readings, and critical/thought-provoking questions you had. Please do NOT just provide a summary of the papers. Remember that everyone else will also be reading the same papers. To give you an idea about what a reading response could look like, here are some (non-exhaustive) options:
+## Reading reaction grading
+Reading reactions will be graded on a 2 point scale and mostly focused on completion. As noted above, you may pass on 3 of the reading responses. Any additional missed responses will receive a 0. 
 
-- Option 1: One paragraph per paper summarizing the contributions of the work(s). Write about potential improvements and how someone could build on the existing work.
-- Option 2: A single paragraph for all papers that fits the papers into an overarching theme. This is not a summary of the papers, but should instead answer questions like: what is the overall topic of the readings? Why are we reading them all together?
-- Option 3: A single paragraph for all papers in the reading list for that day that asks 2-3 thoughtful discussion questions.
-- Option 4: A single paragraph in which you respond to someone else’s reading response (e.g., answer or expand on questions they pose) from the same day.
-- Option 5: Find a new paper that you think builds on one of the readings. Briefly summarize the paper and explain what new ideas it introduces to the current reading. 
-
-
-Also as a general rule, the reading response is mainly there to help you remember the paper and to help the discussion leader summarize different views. When in doubt, please ask me! Send me an email and I will look at the response.
-
-## Reading response grading
-Reading responses will be graded on 0-3 point scale. As noted above, you may pass on 3 of the reading responses. Any additional missed responses will receive a 0. 
-
-	3 points = the reading response satisfies one of the options above, is 5-10 sentences in length, well-written, and thought-provoking (i.e., you got some ideas from it).
-	2 points = the reading response is too short/long, or does not show that you have engaged with the paper.
-	1 point = the reading response is lacking two or more of the above requirements.
-	0 points = no submission
-
-The options for reading responses mentioned above will be equally graded.
+    2 points = the reading reaction answers the posed question and includes at least one direct reference to one of the papers in that class. 
+    1 points = the reading reaction answers the question but does not include a direct reference to a paper
+    0 points = no submission
 
 
 # Leading a class discussion
-Each week, a pair of students will lead the class in a ~1 hour discussion of the assigned papers for that week. You are expected to sign up to be a discussion lead once during the semester. Your responsibilities for a discussion lead are:
+Each week, a group of students will lead the class in a ~1 hour discussion of the assigned papers for that week. You are expected to sign up to be a discussion lead once during the semester. Your responsibilities for a discussion lead are:
 
 - Read and understand the assigned papers that week along with any supporting material that you think would provide helpful background. Please also read the optional readings for that day, if any.
 - Present a 10-12 minute talk on the papers. Summarize the papers’ key ideas, research questions, methodology, and findings.
-- - Lead a class activity based on the papers, followed by a discussion of the reading responses that week.
-To keep the discussion going, read all reading responses by the other students that week and integrate them into the discussion. You should prepare 8-10 discussion questions about the papers. These should be creative questions that do not have easy answers. The questions should be the result of your attempts to understand the material, its implications, and its connections with other work. 
+- Lead a class activity based on the papers, followed by a discussion about the activity.
+To keep the discussion going you should prepare 8-10 discussion questions about the papers. These should be creative questions that do not have easy answers. The questions should be the result of your attempts to understand the material, its implications, and its connections with other work. 
 - Double-check with the instructor **at least 24 hours before class** regarding your proposed group activity and the contents of your slides. This does not need to include your responses to reading responses. We will be able to provide feedback if you send us the materials the day before class.
+- Some days we will have in-class assignments (see more details below) meant to guide the class through ideas from the papers. If you sign up for a day where we have such an assignment, instead of preparing an activity in advance, you will instead complete the assignment in advance (should take no more than 30 minutes), share your completed assignment with the instructor **at least 24 hours before class** and be prepared to help classmates with the assignment during class.  
 
 Below are ideas for group activities and general questions from past classes. Here are some group activities that worked well in prior classes:
 - Role-playing activities: have students within groups analyze the same problem/question by assuming different roles as stakeholders: e.g., writers, news reporters, artists, patients or caregivers, moderators, developers, researchers, policy makers.
@@ -76,19 +64,26 @@ We expect both discussion leads to participate equally in the presentation, acti
   
 # Class participation
 
-You are expected to attend and actively participate in every class session. To make the most of this class and not disrupt others, I expect you to be on time and ready to discuss the readings. If you can’t make it because of sickness or a family emergency or similar, please let me know before class.
+You are expected to attend and actively participate in every class session. To make the most of this class and not disrupt others, I expect you to be on time and ready to discuss the readings. If you can’t make it because of sickness or a family emergency or similar, please let me know before class. Your participation grade will be 50% class attendance and 50% in class assignments. If you are sick or absent the day of a class assignment, you can complete the assignment up to **two weeks after the class** and send it to the course staff. 
+
+## In class assignments
+
+There will be 2-3 assignments in class meant to actualize the findings or ideas from the readings. Completeing these assignments will be part of your particiption grade. These will predominalty be structured coding assignments where you are provided with some initial code that you will fill in to achieve some result. These assignments will be shared during class. We do not expect you to have any preparation for the assignments, and they will mostly be graded on completeness and effort over correctness. If you would like the assignments in advance please let the instructor know. 
+
 
 # Class Project 
 A major goal of the course is to help students critically reflect and build upon the ideas introduced in class. You will work on a group research project related to language, interfaces and communication throughout the semester. We have various milestones for the project below.  
 
 ## Project pitches
-Pick and develop a research idea or question that interests you, develop your own views, and come up with pitches for two new research projects. The projects can fall into two broad categories: 
+Pick and develop a research idea or question that interests you, develop your own views, and come up with pitches for two new research projects. The projects can fall into three broad categories: 
 
 - A **data** project analyzing language use in some communication context (e.g., conversations on reddit, the wording of security and privacy instructions). Note that the communication does not have to be two-way, social or synchronous: it could be conversations on reddit (two-way, social communication), or newspaper articles (one-way). 
 
 - A **design** project proposing a new system (or modifying an existing one) to enhance communication through language. 
 
-More details on the two directions below.  Use the research pitch session to get early feedback from the instructor and your peers on topic selection and potential resources for literature survey. Make sure to include research questions (RQs), why the problem is important (why), and how you plan to solve it in each research pitch (how). There are some great resources online on how to approach research and selecting what problems to work on (or not): 
+- An **evaluation** project conducting some assessment on a system. The system could be interactive or generative, or both. Evaluations should include some human and some automatic components, depending on the type of system you are evaluating.
+
+Use the research pitch session to get early feedback from the instructor and your peers on topic selection and potential resources for literature survey. Make sure to include research questions (RQs), why the problem is important (why), and how you plan to solve it in each research pitch (how). There are some great resources online on how to approach research and selecting what problems to work on (or not): 
 
 - Read [this section](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit?fbclid=IwAR3xKxG5ZnYWARZf7UM0mfPBrVboCJFO1zFnYyRM0a1r3crpwgHiQodk2Z4#heading=h.nqqjfn2gi57d) on “Selecting Problems” on Page 6 in the "Syllabus for Eric’s PhD students".
 - First two sections of [Daniel Fried's lecture on conducting NLP research](https://cmu-anlp.github.io/assets/slides/anlp-10-experimentation.pdf)
@@ -114,7 +109,7 @@ We have compiled some databases, codebases, and compute credits that might be he
 
 ## Project proposal talk
 
-After selecting one research pitch, come up with proposal for a new research study or system design. Incorporate feedback from the class obtained during the pitches, and remind us how you propose to address any challenges during your proposal.
+After selecting one research pitch, come up with project proposal. Incorporate feedback from the class obtained during the pitches, and remind us how you propose to address any challenges during your proposal.
 
 The proposal will include a written document (the project proposal report, covered below) and talk. For the talk, be sure to cover:
 
@@ -122,6 +117,7 @@ The proposal will include a written document (the project proposal report, cover
 - A complete research study or system design. For example, coming up with either a quantitative study to answer clearly-defined research questions or building a new system, chrome plugin, or ML framework to solve some current challenge. You’re free to choose your favorite methods that are appropriate to answering your research questions as long as you justify your methods.
 - For a data project: a plan for how you're going to collect data and drawbacks to your approach. 
 - For a design project: the feasibility of your system design and how you would address any challenges that may arise.
+- For an evaluation project: a plan for how you will collect initial data to analyze, such as how to recruit people or what metrics you will calculate.
 - Timeline for the proposed project, clearly identifying next steps and possible roadblocks or risks. 
 
 <!-- Criteria for project proposal talk
@@ -138,13 +134,13 @@ The proposal will include a written document (the project proposal report, cover
 
 ## Project proposal report
 
-We will be using the [CHI paper format](https://chi2024.acm.org/submission-guides/chi-publication-formats/) for both the project proposal and final report. 
+We will be using the [ACL paper format](https://github.com/acl-org/acl-style-files) for both the project proposal and final report. 
 Your project proposal report will be a first draft of your final paper that you will continue to fill in over the course of the semester. The project proposal report should reflect what you presented in the proposal presentation. It should include an introduction, related work, proposed study design and methodologies, timeline, distribution of work among students, and expected project outcomes and contributions. For the project proposal, try to keep the PDF to under 7 pages. 
 
 Note: A single-paragraph collaboration plan will be required in each student's project proposal to receive full credit. Eventually, a single-paragraph contribution statement summarizing each group member’s contribution to the project will be required in each student’s final paper.
 
 ### What do you need to provide in the collaboration plan?
-Each group member should include a single paragraph (ideally at the end of their proposal) documenting their group's plan to complete the project collaboratively and specifically highlight their specific role as a collaborator. In other words, what is/will be your contribution to the group's successful completion of the 1, project and ii) proposal document + final paper.
+Each group member should include a single paragraph (ideally at the end of their proposal) documenting their group's plan to complete the project collaboratively and specifically highlight their specific role as a collaborator. In other words, what is/will be your contribution to the group's successful completion of the 1, project and 2, proposal document + final paper.
 
 Think of this as an informal contract among group members.
 
