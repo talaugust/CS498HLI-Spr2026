@@ -37,8 +37,8 @@ There is no exam in this course.
 - Leading a class discussion: 15%
 - Class participation: 35%
     - Attendance: 10%
-    - Reading Reactions 15%
-    - In-class activites: 10%
+    - Reading reactions 15%
+    - In-class assignments: 10%
 - Project: 50%
     - Research pitch on 2 possible ideas: 5%
     - Talk on the design of your project (building on your pitch): 5%
