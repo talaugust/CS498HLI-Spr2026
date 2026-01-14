@@ -8,5 +8,5 @@ meta:
   Office Hours: By appointment
 ---
 
-[Schedule an appointment](https://forms.gle/9bkD3b54Ct4mhG9R8){: .btn .btn-outline }
+[Schedule an appointment](){: .btn .btn-outline }
 
