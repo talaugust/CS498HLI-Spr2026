@@ -5,8 +5,7 @@ email: yijun6@illinois.edu
 website: https://yijunliu523.github.io/
 photo: Yijun.jpg
 meta:
-  Office Hours: By appointment
+  Office Hours: By appointment, please email me at yijun6@illinois.edu
 ---
 
-[Schedule an appointment](){: .btn .btn-outline }
 

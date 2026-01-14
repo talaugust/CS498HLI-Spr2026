@@ -20,7 +20,7 @@ Every class will include assigned readings, usually 2, with the exception of cla
 
 When you arrive in class each day, you will see (on the board or projector) a discussion question based on the readings for that day. You will have the first 10 minutes of class to respond to this question. These are the reading reactions. Reading reactions will also serve as the attendance sheet for the class (see below on attendance policies).
 
-**Reading reactions are due after the first 10 minutes of class**. After the first ten minutes, you can still submit the reading reaction (such as if you are absent that day), but it will not count toward your attendance. To accommodate conflicting deadlines, emergencies, or anything else that might come up during the semester, **you are allowed to skip three reading reactions, no questions asked**. You also do **not** need to submit a reading reaction for the papers you are a discussion lead on. If you are absent for a particular day, you can submit the reading reaction after class via the google form (I will post this form after class each day). If you are absent you still need to submit a reaction (unless you plan to use one of your three skips). You will submit responses via a google form provided at the start of class. If you are leading a discussion, you do not need to prepare a discussion response. See below for what to prepare if you are leading a discussion. 
+**Reading reactions are due after the first 10 minutes of class**. After the first ten minutes, you can still submit the reading reaction (such as if you are absent that day), but it will not count toward your attendance. To accommodate conflicting deadlines, emergencies, or anything else that might come up during the semester, **you are allowed to skip three reading reactions, no questions asked**. You also do **not** need to submit a reading reaction for the papers you are a discussion lead on. If you are absent for a particular day, you can submit the reading reaction after class. The Reading Reaction assignment on Canvas for that day will be updated after class to include a google form link to submit your response. If you are leading a discussion, you do not need to prepare a discussion response. See below for what to prepare if you are leading a discussion. 
 
 ## Reading reactions format
 
@@ -70,7 +70,7 @@ There will be 2-3 assignments in class meant to actualize the findings or ideas 
 
 # Class attendance 
 
-I will take attendance for class each day based on reading reaction submissions. You are expected to attend and actively participate in every class session. To make the most of this class and not disrupt others, I expect you to be on time and ready to discuss the readings. If you can’t make it because of sickness or a family emergency or similar, please let me know before class. 
+I will take attendance for class each day based on reading reaction submissions. During presentation days, attendance will be recorded using a sign-in sheet. You are expected to attend and actively participate in every class session. To make the most of this class and not disrupt others, I expect you to be on time and ready to discuss the readings. If you can’t make it because of sickness or a family emergency or similar, please let me know before class. 
 
 
 # Class Project 
