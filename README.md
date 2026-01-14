@@ -25,8 +25,8 @@ A special topics course in human-computer interaction and natural language proce
 # Useful Links
 <!-- - [Request a meeting from course staff](https://forms.gle/9bkD3b54Ct4mhG9R8)  -->
 - Course [Canvas](https://canvas.illinois.edu/courses/63711) page 
-<!-- - Discussion Lead [signup sheet](https://docs.google.com/spreadsheets/d/1PISl-IwZc-l9fbfAoYCB2ci8bwr7v7kQ-Fr7Pr-sB1Y/edit?pli=1&gid=0#gid=0) -->
-<!-- - Project Pitch [signups](https://docs.google.com/spreadsheets/d/1mdIySsCP2z-0UuqTOFb9jFBUPq6jfYeDFkg5N7k1Lyg/edit?usp=sharing) -->
+- Discussion Lead [signup sheet] (https://docs.google.com/spreadsheets/d/18XikvBtqY8raReRUQQuJ0khYNtI_5MI3sB8zElvq0UQ/edit?usp=sharing)
+- Project Pitch [signups](https://docs.google.com/spreadsheets/d/1gps2Y1WvZvaPs4TaPfA-rKqYBJmPpZgEH76DOBgC9Ao/edit?usp=sharing)
 <!-- - Final Project Talk [signups](https://docs.google.com/spreadsheets/d/164zK-dC-iAy-HDUjOKTPTsHE1iHUQSWsU1jSP5uo3CE/edit?usp=sharing) -->
 
 # Acknowledgements 
