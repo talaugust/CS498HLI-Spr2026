@@ -3,9 +3,7 @@ title: Test it (HCI)
 ---
 
 March 26
-: Yujin Potter, Shiyang Lai, Junsol Kim, James Evans, and Dawn Song. 2024. [Hidden Persuaders: LLMs' Political Leaning and Their Influence on Voters](https://drive.google.com/file/d/1Q2z5STRp5FHHSvVv4N1DgvrGtSzt6Y1w/view?usp=sharing), Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing <br> 
-
-Xiangzhe Yuan, Jiajun Wang, Qian Wan, and Siying Hu. 2025. [A Day in Their Shoes: Using LLM-Based Perspective-Taking Interactive Fiction to Reduce Stigma Toward Dirty Work.](https://drive.google.com/file/d/17zex6XPRWa4-v8q_ZylDq2cT9NWRK_yL/view?usp=sharing) In The 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’25)
+: Yujin Potter, Shiyang Lai, Junsol Kim, James Evans, and Dawn Song. 2024. [Hidden Persuaders: LLMs' Political Leaning and Their Influence on Voters](https://drive.google.com/file/d/1Q2z5STRp5FHHSvVv4N1DgvrGtSzt6Y1w/view?usp=sharing), Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing <br> Xiangzhe Yuan, Jiajun Wang, Qian Wan, and Siying Hu. 2025. [A Day in Their Shoes: Using LLM-Based Perspective-Taking Interactive Fiction to Reduce Stigma Toward Dirty Work.](https://drive.google.com/file/d/17zex6XPRWa4-v8q_ZylDq2cT9NWRK_yL/view?usp=sharing) In The 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’25)
 
 
 March 31
