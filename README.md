@@ -17,7 +17,7 @@ A special topics course in human-computer interaction and natural language proce
 **Location**: 2039 Campus Instructional Facility  \
 **Instructor**: Tal August \
 **TA**: Yijun Liu \
-**Office hours**: By appointment \
+**Office hours**: Tal - Friday 3-4 PM at Sieble 4227; Yijun - By appointment \
 **Email**: taugust@illinois.edu, yijun6@illinois.edu
 
 

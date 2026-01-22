@@ -5,8 +5,7 @@ email: taugust@illinois.edu
 website: https://talaugust.github.io/
 photo: tal.jpg
 meta:
-  Office Hours: By appointment
+  Office Hours: Friday 3-4 PM at Siebel 4227
 ---
 
-[Schedule an appointment](){: .btn .btn-outline }
 
