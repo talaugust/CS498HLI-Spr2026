@@ -4,4 +4,4 @@ title: Think Big - what even is language?
 
 Jan 22
 : Giles, H., & Ogay, T. (2007). [Communication Accommodation Theory](https://drive.google.com/file/d/1XMkA0HpUF5xgWnknVAljSLTgBkgkuQHa/view?usp=sharing)  <br> 
-Bell A. 1984. [Language style as audience design](https://drive.google.com/file/d/1foMgB_LszIMby_3GY9mJQZ_czpNKfln1/view?usp=sharing). Language in Society. Sections 1 and 3. <br/>[Slides] (https://docs.google.com/presentation/d/1q0WBKSlH0BBRHuRJ7yplMSDmzEQ1i0kStf8hOcO2m48/edit?usp=sharing)
+Bell A. 1984. [Language style as audience design](https://drive.google.com/file/d/1foMgB_LszIMby_3GY9mJQZ_czpNKfln1/view?usp=sharing). Language in Society. Sections 1 and 3. <br/>[Slides](https://docs.google.com/presentation/d/1q0WBKSlH0BBRHuRJ7yplMSDmzEQ1i0kStf8hOcO2m48/edit?usp=sharing)
