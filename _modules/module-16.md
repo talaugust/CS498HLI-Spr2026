@@ -7,4 +7,4 @@ April 7
 
 
 April 9
-: Bai, et al., 2022. [Constitutional AI: Harmlessness from AI Feedback](https://drive.google.com/file/d/16AuDmE9883fWgdStZNuys5crOTZoMg6y/view?usp=sharing), Arxiv <br> Ivison, et al., 2024 [Unpacking DPO and PPO: disentangling best practices for learning from preference feedback](https://drive.google.com/file/d/1a_ZCj4T-W2yNH3Qk8gW53yBuUERZa37O/view?usp=sharing). Proceedings of the 38th International Conference on Neural Information Processing Systems (NeurIPS 24).
+: Bai, et al., 2022. [Constitutional AI: Harmlessness from AI Feedback](https://drive.google.com/file/d/16AuDmE9883fWgdStZNuys5crOTZoMg6y/view?usp=sharing), Arxiv <br> Ivison, et al., 2024 [Unpacking DPO and PPO: disentangling best practices for learning from preference feedback](https://drive.google.com/file/d/1a_ZCj4T-W2yNH3Qk8gW53yBuUERZa37O/view?usp=sharing). Proceedings of the 38th International Conference on Neural Information Processing Systems (NeurIPS 24). **In-class assignment**{: .label}
