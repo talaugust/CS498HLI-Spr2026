@@ -100,13 +100,13 @@ Time limits: Try to keep your pitch/presentation to 6-8 minutes in total. This w
 
 For each project pitch, submit 2-3 paragraphs that covers: 
 
-- Clear description of a new problem statement and the current gap that you aim to address through your research idea ([examples](https://docs.google.com/document/d/10zThcs1G-lAkULyyCMYUq7QGURdnwIUD374w-6mz-2U/edit)).
+- Clear description of a new problem statement and the current gap that you aim to address through your research idea.
 - An argument, with citations to relevant literature, that these are important research questions that we likely don't have answers for yet.
 - Initial thoughts on research questions and methods you would employ to answer these.
 - Clearly articulate RQs/Why/How in pitches.
 
 ### Project resources
-We have compiled some databases, codebases, and compute credits that might be helpful for planning and executing your project. Here is a list of [potential resources](https://docs.google.com/document/d/1egODNzkt1N0QpOy6SCZZM1DQrj9lOeSPVCun9zhiH10/edit?usp=sharing). Let us know if you have questions about any of it. 
+We have compiled some databases, codebases, and compute credits that might be helpful for planning and executing your project. Here is a list of [potential resources](https://docs.google.com/document/d/1egODNzkt1N0QpOy6SCZZM1DQrj9lOeSPVCun9zhiH10/edit?usp=sharing). Let us know if you have questions about any of it. Here are also some [example projects](https://drive.google.com/drive/folders/1rR8vFhJ2nWPSmsV8U_RVNSDKeM4zkitZ?usp=sharing) from previous years.
 
 
 ## Project proposal talk
