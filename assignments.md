@@ -94,7 +94,7 @@ Use the research pitch session to get early feedback from the instructor and you
     - [Four golden lessons](https://www.nature.com/articles/426389a)
 
 
-Time limits: Try to keep your pitch/presentation to 6-8 minutes in total. This will be followed by 3-4 minutes of Q&A from the instructors and the rest of class. Please practice beforehand to not run out of time!
+Time limits: Try to keep your pitch/presentation to 6-8 minutes in total. This will be followed by 3-4 minutes of Q&A from the instructors or your peers. Please practice beforehand to not run out of time!
 
 ### Guidelines for project pitches
 
